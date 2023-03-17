@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Welcome to Moscow</title>
+    <title></title>
   </head>
   <body>
-  <h1>Грузовикам свыше 3.5т въезд запрещен</h1>
+  <h1>Вас приветствует тестовый сервис, которые почти ничего не делает</h1>
   <a href="/time">Узнать текущее время сервера</a>
   </body>
 </html>

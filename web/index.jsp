@@ -12,6 +12,6 @@
   </head>
   <body>
   <h1>Вас приветствует тестовый сервис 20.03.2023</h1>
-  <a href="/time">Узнать текущее время сервера</a>
+  <a href="${pageContext.request.contextPath}/time">Узнать текущее время сервера</a>
   </body>
 </html>

@@ -11,7 +11,7 @@
     <title></title>
   </head>
   <body>
-  <h1>Превед медвед</h1>
+  <h1>Превед большой медвед 1</h1>
   <a href="${pageContext.request.contextPath}/time">Узнать текущее время сервера</a>
   </body>
 </html>

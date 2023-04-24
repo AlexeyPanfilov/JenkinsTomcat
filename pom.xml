@@ -23,6 +23,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <dependencies></dependencies>
 
     <build>
         <finalName>SimpleTomcatServer</finalName>
